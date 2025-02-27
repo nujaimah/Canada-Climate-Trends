@@ -1,5 +1,5 @@
 # Canada-Climate-Trends
-Visualizations using daily climate data reports from [Government of Canada](https://climate.weather.gc.ca/index_e.html)
+Visualizations created using seaborn and matplotlib with data from daily climate data reports from [Government of Canada](https://climate.weather.gc.ca/index_e.html)
 
 Data used:
 
